@@ -25,7 +25,12 @@
 # ==========================
 # # The config file consists of simple key-value pairs,
 # # separated by equals signs.
-# font-family = Iosevka
+font-family = Iosevka Nerd Font
+font-style = Bold Italic
+
+background-opacity = 0.9
+theme = Rose Pine
+
 # window-padding-x = 2
 #
 # # Spacing around the equals sign does not matter.
