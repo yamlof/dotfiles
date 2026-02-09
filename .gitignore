@@ -1,0 +1,26 @@
+
+# Ignores everything by default
+*
+
+!.gitignore
+
+# Window Managers
+
+!hypr/
+!hypr/**
+!waybar/
+!waybar/**
+
+# Terminal
+
+!wezterm/
+!wezterm/**
+!tmux/
+!tmux/**
+tmux/plugins/*
+!ghostty/
+!ghostty/**
+!fish/
+!fish/**
+!nvim/
+!nvim/**
