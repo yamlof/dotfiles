@@ -1,4 +1,5 @@
 vim.wo.number =true
+--vim.cmd[[colorscheme tokyonight]]
 vim.cmd('highlight Normal ctermbg=none')
 vim.cmd('highlight Normal guibg=none')
 vim.cmd("set expandtab")

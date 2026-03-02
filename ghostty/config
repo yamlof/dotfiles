@@ -28,7 +28,7 @@
 font-family = Iosevka Nerd Font
 font-style = Bold Italic
 
-background-opacity = 0.9
+background-opacity = 1.0
 theme = Rose Pine
 
 # window-padding-x = 2
