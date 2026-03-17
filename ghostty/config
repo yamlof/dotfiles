@@ -30,6 +30,7 @@ font-style = Bold Italic
 
 background-opacity = 1.0
 theme = TokyoNight Night
+window-decoration = none
 
 # window-padding-x = 2
 #
