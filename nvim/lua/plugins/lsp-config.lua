@@ -25,6 +25,9 @@ return {
             lspconfig.clangd.setup({
                 capabilities = capabilities,
             })
+            lspconfig.vtsls.setup({
+                capabilities = capabilities
+            })
             lspconfig.pyright.setup({
                 capabilities = capabilities,
                 settings = {
